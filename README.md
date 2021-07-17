@@ -8,4 +8,4 @@ For now I'm putting it up on GitHub in case anyone would like to contribute. The
 
 ### Where
 
-After it's done I'll probably host it on my site or a GitHub page idk. The good thing about having convered the .xhtml pages from the original .epub is that all the legacy CSS stuff is gone and it can be re-fitted for any type of website.
+After it's done I'll probably host it on my site or a GitHub page idk. The good thing about having converted the .xhtml pages from the original .epub is that all the legacy CSS stuff is gone and it can be re-fitted for any type of website.
