@@ -4,7 +4,7 @@
 ### Why
 To make the book more accessible I wanted to host some chapters seperately online, mainly those I found particularly useful for understanding Marxist-Leninist-Maoist theory. However after realising it would be necessary for the footnotes I made a script that automated it, and then extended it to do most of the changes necessary (keyword: most, I can't be bothered to get better at sed to finish it), so now I figure I might as well just do the whole book.
 
-For now I'm putting it up on GitHub in case anyone would like to contribute. The files in unformatted/ have already been processed by the script so the rest would be done manually unless u write a better one lul. Images will come later.
+For now I'm putting it up on GitHub in case anyone would like to contribute. The files in Text/unformatted/ have already been processed by the script so the rest would be done manually unless u write a better one lul. Images will come later.
 
 ### Where
 
