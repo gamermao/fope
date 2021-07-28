@@ -9,5 +9,8 @@ For now I'm putting it up on GitHub in case anyone would like to contribute. The
 ### Where
 After it's done I'll probably host it on my site or a GitHub page idk. The good thing about having converted the .xhtml pages from the original .epub is that all the legacy CSS stuff is gone and it can be re-fitted for any type of website.
 
+### Status
+It's done! All I need to do now is, maybe, add a table of contents. If and when I feel like it.
+
 ### Contact
 If you find any errors you don't wanna fix yourself [feel free to contact me](https://maochetero.netlify.app/menu/about/). :)
